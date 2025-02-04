@@ -1,4 +1,4 @@
-<h1>Gerador de Tabuada</h1>
+<h1>Gerador de Tabuada - Python</h1>
 <p>Este repositório contém um script simples em Python para gerar a tabuada de qualquer número desejado. O gerador de tabuada é uma ferramenta prática para estudantes e profissionais que precisam de uma referência rápida para operações de multiplicação.</p>
         
 <h2>Funcionalidades:</h2>
